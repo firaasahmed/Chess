@@ -1,4 +1,4 @@
-<center><em><p align=center>Simple Chess Board made using pygame:</p></em>
+<center><em><p align=center>Simple Chess game made using pygame:</p></em>
 <p></p>
   <p align=center>
 <a href=#><img src="images/chessboardreadme.png" alt="chessboard.png" width="200px"></a>
