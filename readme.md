@@ -1,8 +1,11 @@
-<center><em>Simple Chess Board made using pygame:</center></em>
+<center><em><p align=center>Simple Chess Board made using pygame:</p></em>
 <p></p>
-<center><a href=#><img src="images/chessboardreadme.png" alt="chessboard.png" width="200px"></a></center>
+  <p align=center>
+<a href=#><img src="images/chessboardreadme.png" alt="chessboard.png" width="200px"></a>
+  </p>
 <hr>
 
-<center><em>Queens wayward Attack</center></em>
+<p align=center><em>Queens wayward Attack</center></em></p>
 <p></p>
-<center><a href=#><img src="images/checkmate.png" alt="Checkmate!" width="200px"></a></center>
+<p align=center>
+<a href=#><img src="images/checkmate.png" alt="Checkmate!" width="200px"></a></center></p>
